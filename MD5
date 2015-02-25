@@ -1,0 +1,12 @@
+0410a7e532b5e374015490e2ffdd272e *DESCRIPTION
+504d6607d83befff13d61add8e443f4a *NAMESPACE
+6bb8e7fea4e75610e55bea9f82ef0857 *R/survcorr.R
+00ef0c4d1cea7ea7d528895f9b7f451f *data/diabetes.RData
+01ea4a3e35e71991d39062ccd374b578 *data/kidney.RData
+2b6c2fd49e0d275d937d807498234e36 *man/SurvCorr-package.Rd
+29cf75c311c6591216d13e814d9e2b11 *man/diabetes.Rd
+1e597b44ee74a18b32a2660795e59521 *man/kidney.Rd
+99289250716a5ddfe5de703c000419a5 *man/plot.survcorr.Rd
+de5dab77aea8228449e26b12a3b3433b *man/print.survcorr.Rd
+f38e1dc3adb61c101ccdc2ca5acb5067 *man/summary.survcorr.Rd
+f366864789ae74bc356f8c5ddd74bc2a *man/survcorr.Rd
