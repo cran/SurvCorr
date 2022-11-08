@@ -1,9 +1,10 @@
 #### import
-importFrom(survival, Surv)
-importFrom(survival, coxph)
-importFrom(survival, survfit)
-importFrom(fields, arrow.plot)
-
+importFrom("survival", "Surv")
+importFrom("survival", "coxph")
+importFrom("survival", "survfit")
+importFrom("fields", "arrow.plot")
+importFrom("graphics", "par", "points")
+importFrom("stats", "cor", "model.frame", "pnorm", "qnorm", "qt", "runif", "var")
 
 #### export of public functions:
 export(survcorr, Surv)

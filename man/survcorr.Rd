@@ -71,7 +71,7 @@ The analysis of correlations within pairs of survival times is of interest to ma
 \item{call }{the function call (useful for making use of update(obj))}
 }
 \references{
-Schemper,M., Kaider,A., Wakounig,S. & Heinze,G. (2013): "Estimating the correlation of bivariate failure times under censoring", Statistics in Medicine, 32, 4781-4790 \url{http://dx.doi.org/10.1002/sim.5874}.}
+Schemper,M., Kaider,A., Wakounig,S. & Heinze,G. (2013): "Estimating the correlation of bivariate failure times under censoring", Statistics in Medicine, 32, 4781-4790 \doi{10.1002/sim.5874}.}
 \author{
 Meinhard Ploner, Alexandra Kaider, Georg Heinze
 }

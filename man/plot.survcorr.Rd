@@ -69,7 +69,7 @@ Further options to be passed to the \code{plot} function.}
 no return value; function is called for its side effects
 }
 \references{
-Schemper,M., Kaider,A., Wakounig,S. & Heinze,G. (2013): "Estimating the correlation of bivariate failure times under censoring", Statistics in Medicine, 32, 4781-4790 \url{http://dx.doi.org/10.1002/sim.5874}.}
+Schemper,M., Kaider,A., Wakounig,S. & Heinze,G. (2013): "Estimating the correlation of bivariate failure times under censoring", Statistics in Medicine, 32, 4781-4790 \doi{10.1002/sim.5874}.}
 \author{
 Meinhard Ploner, Alexandra Kaider, Georg Heinze
 }
